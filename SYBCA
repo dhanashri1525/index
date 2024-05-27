@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title> SYBCA</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" alihn="center" cellspacing="10" title="SYBCA">
+        <tr>
+            <th> Date</th>
+            <th> Time</th>
+            <th>Subject code</th>
+            <th>Subject Name</th>
+        </tr>
+        <tr>
+            <td> 15/9/2019</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 2101</td>
+            <td> JAVA</td>
+        </tr>
+         <tr>
+            <td> 16/9/2019</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 2102</td>
+            <td> Data  Structure</td>
+        </tr>
+         <tr>
+            <td> 17/9/2019</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 2103</td>
+            <td> Mathamatics</td>
+        </tr>
+        <tr>
+            <td> 18/9/2018</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 2104</td>
+            <td>Python</td>
+        </tr>
+    </table>
+</body>
+</html>
