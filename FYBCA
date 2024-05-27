@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title> FYBCA</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" alihn="center" cellspacing="10" title="FYBCA">
+        <tr>
+            <th> Date</th>
+            <th> Time</th>
+            <th>Subject code</th>
+            <th>Subject Name</th>
+        </tr>
+        <tr>
+            <td> 15/9/2018</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 1101</td>
+            <td> C</td>
+        </tr>
+         <tr>
+            <td> 16/9/2018</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 1102</td>
+            <td> computer fundamental</td>
+        </tr>
+         <tr>
+            <td> 17/9/2018</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 1103</td>
+            <td> Web Programming</td>
+        </tr>
+        <tr>
+            <td> 18/9/2018</td>
+            <td> 8:00pm-9:45pm</td>
+            <td> 1104</td>
+            <td> C++</td>
+        </tr>
+    </table>
+</body>
+</html>
